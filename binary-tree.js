@@ -160,5 +160,5 @@ console.log(tree.inOrderTraversal());
 // console.log(tree.levelOrderTraversal())
 // console.log(tree.sumAtEachLevel());
 console.log(tree.inOrderSuccessor(42));
-// console.log(tree.depth());
+console.log(tree.depth());
 
